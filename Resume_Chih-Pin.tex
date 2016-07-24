@@ -1,0 +1,68 @@
+%% start of file `template_en.tex'.
+%% Copyright 2006-1008 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper]{moderncv}
+
+% moderncv themes
+\moderncvtheme[black]{classic}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvtheme[green]{classic}                % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}                   % replace by the encoding you are using
+\usepackage{ifthen}
+
+% conditional compilation flags
+\newboolean{thesis-abstract}
+\setboolean{thesis-abstract}{true}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}						% if you want to change the width of the column with the dates
+%\AtBeginDocument{\setlength{\maketitlenamewidth}{6cm}}  % only for the classic theme, if you want to change the width of your name placeholder (to leave more space for your address details
+\AtBeginDocument{\recomputelengths}                     % required when changes are made to page layout lengths
+
+% personal data
+\firstname{Chih-Pin}
+\familyname{Tan}
+%\title{Curriculum Vitae}               % optional, remove the line if not wanted
+%\address{334 E. Main St., Apt. A3}{Newark, DE 19711}    % optional, remove the line if not wanted
+%\address{Department of Computer Science\\
+%	National Tsing Hua University\\
+%	No. 101, Section 2, Kuang-Fu Road}
+%{Hsinchu, Taiwan}    % optional, remove the line if not wanted
+%\mobile{+886-910237453}                    % optional, remove the line if not wanted
+%\phone{302--831--6339}                      % optional, remove the line if not wanted
+%\fax{fax (optional)}                          % optional, remove the line if not wanted
+%\email{yibin1220@gmail.com}
+%\extrainfo{Mobile: +886-910237453\\
+%	Mail: yibin1220@gmail.com\\                      % optional, remove the line if not wanted
+%	Sex: Female}
+%\extrainfo{\url{http://www.cis.udel.edu/~trnka}} % optional, remove the line if not wanted
+%\extrainfo{Skype: wamosing} % optional, remove the line if not wanted
+%\photo[64pt]{picture}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
+%\quote{Some quote (optional)}                 % optional, remove the line if not wanted
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+
+\newcommand{\bibauthor}[1]{\textbf{#1}}
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+\input{education}
+\input{about}
+\input{experience} 
+\input{publications}
+
+\end{document}
+
+
