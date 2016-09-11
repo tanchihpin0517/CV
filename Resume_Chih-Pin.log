@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.7.24)  24 JUL 2016 16:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.7.24)  11 SEP 2016 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,55 +624,60 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
-) (./interest.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--2
-
- []
-
-) (./publications.tex
+) (./about.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--14
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 34.
 ) (./experience.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--20
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--20
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
 
  []
 
 [1
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+]) (./publications.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--14
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 23.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
  [2]
@@ -681,16 +686,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `Resume_Chih-Pin.out' has not changed.
-(rerunfilecheck)             Checksum: F60250503162267CD2A54A32FC89B5AB;369.
+(rerunfilecheck)             Checksum: 2373DF626F1C928C2890A955002C8070;395.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 6200 strings out of 493305
- 89153 string characters out of 6139897
- 176060 words of memory out of 5000000
- 9569 multiletter control sequences out of 15000+600000
+ 6201 strings out of 493305
+ 89156 string characters out of 6139897
+ 178124 words of memory out of 5000000
+ 9570 multiletter control sequences out of 15000+600000
  50075 words of font info for 39 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  36i,11n,45p,1333b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Resume_Chih-Pin.dvi (2 pages, 9956 bytes).
+Output written on Resume_Chih-Pin.dvi (2 pages, 11144 bytes).
