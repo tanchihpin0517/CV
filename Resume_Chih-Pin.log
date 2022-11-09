@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.18)  9 NOV 2022 14:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.18)  9 NOV 2022 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -349,35 +349,50 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 59.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/marvosym/umvs.fd)
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 59.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 59.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 59.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 59.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 59.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 59.
+<avatar.jpeg, id=22, 401.5pt x 401.5pt>
+File: avatar.jpeg Graphic file (type jpg)
+<use avatar.jpeg>
+Package pdftex.def Info: avatar.jpeg  used on input line 59.
+(pdftex.def)             Requested size: 64.0pt x 63.99625pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 59--60
+[][][]| [][] 
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-(./education.tex
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-) (./about.tex
+(./education.tex) (./about.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
@@ -401,23 +416,23 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 11.
 ) [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Resume_Chih-Pin.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avatar.jpeg>] (./Resume_Chih-Pin.aux)
 Package rerunfilecheck Info: File `Resume_Chih-Pin.out' has not changed.
 (rerunfilecheck)             Checksum: 04784D9DAFC512AC6EEDBFD7BE05406D;394.
  ) 
 Here is how much of TeX's memory you used:
- 9644 strings out of 478268
- 153069 string characters out of 5846346
- 443723 words of memory out of 5000000
- 27696 multiletter control sequences out of 15000+600000
- 509964 words of font info for 51 fonts, out of 8000000 for 9000
+ 9696 strings out of 478268
+ 153903 string characters out of 5846346
+ 444809 words of memory out of 5000000
+ 27737 multiletter control sequences out of 15000+600000
+ 511122 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,78p,1346b,313s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Resume_Chih-Pin.pdf (1 page, 110306 bytes).
+ 75i,8n,78p,1346b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on Resume_Chih-Pin.pdf (1 page, 202048 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
