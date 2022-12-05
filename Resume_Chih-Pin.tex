@@ -15,6 +15,7 @@
 % character encoding
 \usepackage[utf8]{inputenc}                   % replace by the encoding you are using
 \usepackage{ifthen}
+\usepackage[encapsulated]{CJK}
 
 % conditional compilation flags
 \newboolean{thesis-abstract}
@@ -29,6 +30,8 @@
 % personal data
 \firstname{Chih-Pin}
 \familyname{Tan}
+\title{譚至斌}
+
 % \title{Curriculum Vitae}               % optional, remove the line if not wanted
 %\address{334 E. Main St., Apt. A3}{Newark, DE 19711}    % optional, remove the line if not wanted
 %\address{Department of Computer Science\\
@@ -56,7 +59,9 @@
 %            content
 %----------------------------------------------------------------------------------
 \begin{document}
+\begin{CJK}{UTF8}{bsmi}
 \maketitle
+\end{CJK}
 
 \input{education}
 \input{about}

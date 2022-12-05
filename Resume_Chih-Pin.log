@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.18)  9 NOV 2022 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.14)  5 DEC 2022 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -209,6 +209,78 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box50
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -227,39 +299,103 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen151
 \Gm@dimlist=\toks19
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 58.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 61.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
-\l__pdf_internal_box=\box50
+\l__pdf_internal_box=\box51
 ) (./Resume_Chih-Pin.aux)
 \openout1 = `Resume_Chih-Pin.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count198
 \scratchdimen=\dimen152
-\scratchbox=\box51
+\scratchbox=\box52
 \nofMPsegments=\count199
 \nofMParguments=\count266
 \everyMPshowfont=\toks20
@@ -274,7 +410,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 58.
+Package hyperref Info: Link coloring OFF on input line 61.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -284,9 +420,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count270
 )
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
-LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \ref on input line 61.
+LaTeX Info: Redefining \pageref on input line 61.
+LaTeX Info: Redefining \nameref on input line 61.
  (./Resume_Chih-Pin.out) (./Resume_Chih-Pin.out)
 \@outlinefile=\write3
 \openout3 = `Resume_Chih-Pin.out'.
@@ -349,47 +485,59 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 59.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 63.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
+File: c70bsmi.fd 2021/10/16 4.8.5
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx
+File: c70bsmi.fdx 2021/10/16 4.8.5
+)
+
+LaTeX Font Warning: Font shape `C70/bsmi/m/sl' undefined
+(Font)              using `C70/bsmi/m/n' instead on input line 63.
+
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 63.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/marvosym/umvs.fd)
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 59.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 63.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 59.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 63.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 59.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 63.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 59.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 63.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 59.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 63.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 59.
+(Font)              <10.95> on input line 63.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 59.
+(Font)              <8> on input line 63.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 59.
-<avatar.jpeg, id=22, 401.5pt x 401.5pt>
+(Font)              <6> on input line 63.
+<avatar.jpeg, id=34, 401.5pt x 401.5pt>
 File: avatar.jpeg Graphic file (type jpg)
 <use avatar.jpeg>
-Package pdftex.def Info: avatar.jpeg  used on input line 59.
+Package pdftex.def Info: avatar.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 64.0pt x 63.99625pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 59--60
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 63--65
 [][][]| [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
  []
 
 (./education.tex) (./about.tex
@@ -414,25 +562,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 11.
-) [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avatar.jpeg>] (./Resume_Chih-Pin.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
+
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avatar.jpeg>] (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+Underfull \hbox (badness 10000) in paragraph at lines 67--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--76
+
+ []
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+Underfull \hbox (badness 3058) in paragraph at lines 81--81
+\C70/bsmi/m/n/10/63 Ð \C70/bsmi/m/n/10/4f › \C70/bsmi/m/n/10/57 ú \C70/bsmi/m/n/10/67 , \C70/bsmi/m/n/10/76 „\T1/lmss/m/n/10 system call\C70/bsmi/m/n/10/ff ^^L \C70/bsmi/m/n/10/80 ^^L \C70/bsmi/m/n/10/9a E \C70/bsmi/m/n/10/52 Õ \C70/bsmi/m/n/10/76 „ \C70/bsmi/m/n/10/90 è \C70/bsmi/m/n/10/52 ^^F \C70/bsmi/m/n/10/53 ^^E \C70/bsmi/m/n/10/54 + \C70/bsmi/m/n/10/85 Í \C70/bsmi/m/n/10/82 ½ \C70/bsmi/m/n/10/4e å \C70/bsmi/m/n/10/53 Ê \C70/bsmi/m/n/10/99 ¬ \C70/bsmi/m/n/10/90 T \C70/bsmi/m/n/10/ff ^^L \C70/bsmi/m/n/10/6d ‰ \C70/bsmi/m/n/10/53 Ê \C70/bsmi/m/n/10/76 „ \C70/bsmi/m/n/10/7b Ä \C70/bsmi/m/n/10/57 ^^M \C70/bsmi/m/n/10/53 ^^E
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 78--70
+
+ []
+
+[2] (./Resume_Chih-Pin.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `Resume_Chih-Pin.out' has not changed.
-(rerunfilecheck)             Checksum: 04784D9DAFC512AC6EEDBFD7BE05406D;394.
+(rerunfilecheck)             Checksum: 2B57C91DE7D5537A1D972D2C11F397AE;770.
  ) 
 Here is how much of TeX's memory you used:
- 9696 strings out of 478268
- 153903 string characters out of 5846346
- 444809 words of memory out of 5000000
- 27737 multiletter control sequences out of 15000+600000
- 511122 words of font info for 54 fonts, out of 8000000 for 9000
+ 11423 strings out of 478268
+ 178807 string characters out of 5846346
+ 475781 words of memory out of 5000000
+ 29324 multiletter control sequences out of 15000+600000
+ 547148 words of font info for 153 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,78p,1346b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on Resume_Chih-Pin.pdf (1 page, 202025 bytes).
+ 75i,11n,78p,1384b,1078s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu30.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu50.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu52.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu53.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu54.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu56.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu57.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu58.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu59.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5d.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu60.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu61.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu63.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu64.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu65.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu66.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu67.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu68.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu69.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6d.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu70.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu71.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu72.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu73.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu75.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu76.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu77.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu78.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu79.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7d.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu80.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu81.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu82.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu84.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu85.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu88.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu89.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu90.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu91.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu95.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu97.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu98.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu99.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu9a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiuff.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on Resume_Chih-Pin.pdf (2 pages, 554533 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 439 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 12 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 
