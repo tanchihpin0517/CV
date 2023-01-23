@@ -333,7 +333,8 @@
 % usage: \cventry{years}{degree/job title}{institution/employer}{localization}{optionnal: grade/...}{optional: comment/job description}
 \newcommand*{\cventry}[6]{%
   \cvline{#1}{%
-    {\bfseries#2}%
+    %{\bfseries#2}% removed to avoid bolding the title
+    {#2}%
     \ifx#3\else{, {\slshape#3}}\fi%
     \ifx#4\else{, #4}\fi%
     \ifx#5\else{, #5}\fi%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.14)  5 DEC 2022 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.14)  4 JAN 2023 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -530,98 +530,138 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 63.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 63.
-<avatar.jpeg, id=34, 401.5pt x 401.5pt>
+<avatar.jpeg, id=26, 401.5pt x 401.5pt>
 File: avatar.jpeg Graphic file (type jpg)
 <use avatar.jpeg>
 Package pdftex.def Info: avatar.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 64.0pt x 63.99625pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 63--65
-[][][]| [][] 
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 63--63
+ [][][]| [][]  
  []
 
-(./education.tex) (./about.tex
+(./content/education.tex) (./content/about.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-) (./experience.tex
+) (./content/experience.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--4
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--17
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-) (./publications.tex
+) (./content/publications.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 11.
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--60
-
- []
-
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avatar.jpeg>] (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-File: UTF8.enc 2021/10/16 4.8.5
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-File: UTF8.chr 2021/10/16 4.8.5
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avatar.jpeg>]
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 57.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 67--76
-
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 57--57
+[]\TS1/lmss/m/n/10.95 ˆ []| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--76
-
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 58--58
+[]\TS1/lmss/m/n/10.95 ˆ []| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--76
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 59--59
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 62--62
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 63.
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 63--63
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 64--64
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 65--65
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 66--66
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 67--67
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 68--68
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 71--71
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 72--72
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Overfull \hbox (1.87575pt too wide) in paragraph at lines 73--73
+[]\TS1/lmss/m/n/10.95 ˆ []| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--74
 
  []
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-File: UTF8.enc 2021/10/16 4.8.5
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-File: UTF8.chr 2021/10/16 4.8.5
-)
-Underfull \hbox (badness 3058) in paragraph at lines 81--81
-\C70/bsmi/m/n/10/63 Ð \C70/bsmi/m/n/10/4f › \C70/bsmi/m/n/10/57 ú \C70/bsmi/m/n/10/67 , \C70/bsmi/m/n/10/76 „\T1/lmss/m/n/10 system call\C70/bsmi/m/n/10/ff ^^L \C70/bsmi/m/n/10/80 ^^L \C70/bsmi/m/n/10/9a E \C70/bsmi/m/n/10/52 Õ \C70/bsmi/m/n/10/76 „ \C70/bsmi/m/n/10/90 è \C70/bsmi/m/n/10/52 ^^F \C70/bsmi/m/n/10/53 ^^E \C70/bsmi/m/n/10/54 + \C70/bsmi/m/n/10/85 Í \C70/bsmi/m/n/10/82 ½ \C70/bsmi/m/n/10/4e å \C70/bsmi/m/n/10/53 Ê \C70/bsmi/m/n/10/99 ¬ \C70/bsmi/m/n/10/90 T \C70/bsmi/m/n/10/ff ^^L \C70/bsmi/m/n/10/6d ‰ \C70/bsmi/m/n/10/53 Ê \C70/bsmi/m/n/10/76 „ \C70/bsmi/m/n/10/7b Ä \C70/bsmi/m/n/10/57 ^^M \C70/bsmi/m/n/10/53 ^^E
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 78--70
-
- []
-
-[2] (./Resume_Chih-Pin.aux)
+) [2] (./Resume_Chih-Pin.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Resume_Chih-Pin.out' has not changed.
-(rerunfilecheck)             Checksum: 2B57C91DE7D5537A1D972D2C11F397AE;770.
+(rerunfilecheck)             Checksum: E9E14A6BC94BA9DB1752DB9301AED86D;478.
  ) 
 Here is how much of TeX's memory you used:
- 11423 strings out of 478268
- 178807 string characters out of 5846346
- 475781 words of memory out of 5000000
- 29324 multiletter control sequences out of 15000+600000
- 547148 words of font info for 153 fonts, out of 8000000 for 9000
+ 11056 strings out of 478268
+ 172014 string characters out of 5846346
+ 462893 words of memory out of 5000000
+ 29024 multiletter control sequences out of 15000+600000
+ 529322 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,78p,1384b,1078s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu30.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu50.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu52.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu53.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu54.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu56.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu57.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu58.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu59.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5d.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu5f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu60.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu61.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu63.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu64.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu65.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu66.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu67.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu68.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu69.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6d.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu6e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu70.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu71.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu72.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu73.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu75.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu76.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu77.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu78.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu79.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7d.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu7f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu80.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu81.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu82.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu84.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu85.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu88.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu89.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8e.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8f.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu90.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu91.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu95.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu97.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu98.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu99.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu9a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiuff.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on Resume_Chih-Pin.pdf (2 pages, 554533 bytes).
+ 75i,11n,78p,1359b,1078s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu65.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu81.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu8b.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on Resume_Chih-Pin.pdf (2 pages, 307910 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
- 12 named destinations out of 1000 (max. 500000)
- 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
