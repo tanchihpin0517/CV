@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1672847804 "/Users/tanch/workspace/CV/Resume_Chih-Pin.tex" "Resume_Chih-Pin.pdf" "Resume_Chih-Pin" 1672847805
+["pdflatex"] 1680344341 "/Users/tanch/workspace/CV/Resume_Chih-Pin.tex" "Resume_Chih-Pin.pdf" "Resume_Chih-Pin" 1680344342
   "/Users/tanch/workspace/CV/Resume_Chih-Pin.tex" 1672845751 3228 19f680a34e7430e0e11a430ebce527b4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
@@ -123,14 +123,14 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1668394043 2826446 3edcd2c94fb76bad93de1dac69cefcbd ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Resume_Chih-Pin.aux" 1672847805 1229 9f53599c1cf2561b8afae690a24742a6 "pdflatex"
-  "Resume_Chih-Pin.out" 1672847805 478 e9e14a6bc94ba9db1752db9301aed86d "pdflatex"
+  "Resume_Chih-Pin.aux" 1680344342 1229 9f53599c1cf2561b8afae690a24742a6 "pdflatex"
+  "Resume_Chih-Pin.out" 1680344342 478 e9e14a6bc94ba9db1752db9301aed86d "pdflatex"
   "Resume_Chih-Pin.tex" 1672845751 3228 19f680a34e7430e0e11a430ebce527b4 ""
   "avatar.jpeg" 1667976880 46876 ee299a9f16c4f20fce56cdd777be7073 ""
   "content/about.tex" 1672728883 821 e1e92ceac632f215a29ee23df017544e ""
   "content/education.tex" 1672833645 549 d3c576d908403de9d1219780952a9e7a ""
-  "content/experience.tex" 1672843884 5498 6ec691bbee9efa6f1067e5d5e28b0725 ""
-  "content/publications.tex" 1672847804 11919 1bc67f98b0df36483e66e2802a5d4b4d ""
+  "content/experience.tex" 1680344341 5594 eb4e4768ba2c7c6e4adb0d63fdd0e31e ""
+  "content/publications.tex" 1672847814 11919 1bc67f98b0df36483e66e2802a5d4b4d ""
   "moderncv.cls" 1672831735 14807 f3b19b5a5fd3fa640b83bb9438b46148 ""
   "moderncvcompatibility.sty" 1667976395 2851 01494b0561434bf73cc4445d04f4b1d6 ""
   "moderncvthemeclassic.sty" 1667976395 6655 f3e1977af5016706afe044a6781bfd36 ""
