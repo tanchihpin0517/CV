@@ -1,3 +1,3 @@
 # CV
 
-Read my CV at Resume_Chih-Pin.pdf
+Find my CV at Resume_Chih-Pin.pdf
